@@ -45,7 +45,7 @@ What are the three most commonly requested url besides / get or post? (no slashe
 
     sed -e 's/\s/\n/g' < glastopf.log glastopf.log.1 glastopf.log.2 glastopf.log.3 glastopf.log.4 glastopf.log.2018-11-14 glastopf.log.2018-11-13 glastopf.log.2018-11-12 ../db/*  | sort | uniq -c | sort -nr | head -50
 
-Here we have a order to follow, confg.php, 1.php, qq.php,
+Here we have a order to follow, 1.php, confg.php, qq.php,
 
 ## Dionaea - 2
 What is the common name for the most commonly downloaded malware?
