@@ -87,7 +87,7 @@ Ele nos retorna um base64:
 
     Nlc/TyVBN11SY0ZDL2EuP1lzcSFCallwdERmMCEz
 
-Decodificando ele nos retorna um ascii58:
+Decodificando ele nos retorna um ascii85:
 
     6W?O%A7]RcFC/a.?Ysq!BjYptDf0!3
 
